@@ -22,7 +22,7 @@ const handleSubmit = (event) => {
     <div className="container">
         
         <form onSubmit={handleSubmit}>
-            <h1>Acesse o sistema</h1>
+            <h1>Inicie a sessão</h1>
             <div className="input-field">
                 <input type="email" placeholder='E-mail' onChange={(e)=> setUsername(e.target.value)} />
                 <FaUser className="icon"/>
