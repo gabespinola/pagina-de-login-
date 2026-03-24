@@ -44,7 +44,7 @@ const handleSubmit = (event) => {
 
             <div className="singup-link">
                 <p>
-                    Não tem uma conta? <a href="http://">Cadastre-se</a>
+                    Não possui uma conta? <a href="http://">Cadastre-se</a>
                 </p>
             </div>
         </form>
