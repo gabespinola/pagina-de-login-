@@ -90,11 +90,22 @@
 }
 
 
-.container .singup-link{
+.container .signup-link{
     font-size: 15px;
     text-align: center;
     margin: 20px 0 10px;
 }
 
+.signup-link p {
+    color: #fff;
+}
 
+.signup-link a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.signup-link a:hover {
+    text-decoration: underline;
+}
 

@@ -42,7 +42,7 @@ const handleSubmit = (event) => {
             </div>
             <button>Entrar</button>
 
-            <div className="singup-link">
+            <div className="signup-link">
                 <p>
                     Não possui uma conta? <a href="http://">Cadastre-se</a>
                 </p>
